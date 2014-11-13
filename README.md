@@ -11,6 +11,7 @@ A free premium bootstrap Ghost theme
 
 Built in [Boostrap 3](http://getbootstrap.com/) Mutiny is can be easily customized to meet your needs. You can add your own custom bootstrap theme to overwite the default boostrap stylesheet. Mutiny currently comes with the [bootswatch](http://bootswatch.com/) theme [cosmo](http://bootswatch.com/cosmo/) as default.
 
+
 ## Features
 * Built in Boostrap 3
 * Easily customizable
