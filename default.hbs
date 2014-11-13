@@ -16,7 +16,8 @@
     <link rel="shortcut icon" href="{{asset "favicon.ico"}}">
 
     {{! Styles'n'Scripts }}
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    {{! 360 cdn加速css }}
+    <link rel="stylesheet" href="//libs.useso.com/js/bootstrap/3.2.0/css/bootstrap.min.css">
     
     {{! Include for changeable bootstrap theme }} 
     {{> bootstrap-theme }}
@@ -26,8 +27,8 @@
        <!-- Google Authorship and Publisher Markup -->
     {{> google-authorship}}
 
-    
-    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.min.js"></script>
+    {{! 360 cdn加速js }}
+    <script type="text/javascript" src="//libs.useso.com/js/modernizr/2.8.2/modernizr.min.js"></script>
 
     {{! Ghost outputs important style and meta data with this tag }}
     {{ghost_head}}
@@ -50,7 +51,7 @@
     {{ghost_foot}}
 
     {{! The main JavaScript file for Casper }}
-    <script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="//libs.useso.com/js/bootstrap/3.2.0/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="{{asset "js/headroom.min.js"}}"></script>
     <script type="text/javascript" src="{{asset "js/imagesloaded.min.js"}}"></script>
     <script type="text/javascript" src="{{asset "js/jquery.fluidbox.min.js"}}"></script>

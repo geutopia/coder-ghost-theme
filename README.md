@@ -1,16 +1,13 @@
-Mutiny
+
+
+
+Ghost-theme  
 ======
 
+fork from https://github.com/mholland1337/Mutiny
+
 A free premium bootstrap Ghost theme
-
-## [Download Here](https://github.com/mholland1337/Mutiny/releases/latest)
-
-### Ghost v0.5 [Download Here](https://github.com/mholland1337/Mutiny/releases/latest) 
-### Ghost v0.4.2 [Download Here](https://github.com/mholland1337/Mutiny/releases/tag/v1.0.0) 
-
-Based on the style of the blog by [Designmodo](http://journal.designmodo.com/). Mutiny is a clean, minimal Ghost theme with all the bells and whistles.
-
-![Mutiny index](https://bff4d6e4f60bfb233ad43d411f0c7a2f9118f658.googledrive.com/host/0B3-IFpi4iZ9TVE16MU1zNWV3WDQ/mutiny-index.png)
+ Mutiny is a clean, minimal Ghost theme with all the bells and whistles.
 
 Built in [Boostrap 3](http://getbootstrap.com/) Mutiny is can be easily customized to meet your needs. You can add your own custom bootstrap theme to overwite the default boostrap stylesheet. Mutiny currently comes with the [bootswatch](http://bootswatch.com/) theme [cosmo](http://bootswatch.com/cosmo/) as default.
 
@@ -26,7 +23,7 @@ Built in [Boostrap 3](http://getbootstrap.com/) Mutiny is can be easily customiz
 * [Structured data](http://www.google.com/webmasters/tools/richsnippets?q=maxholland.me)
 
 ## Installation
-1. Download the theme by [clicking here](https://github.com/mholland1337/Mutiny/releases/latest).
+1. Download the theme 
 2. Extract the .zip file.
 3. Make the appropriate changes e.g. side bar links
 4. Re-zip the file and upload to your ghost blog.
@@ -89,5 +86,3 @@ Un remmed:
 1. Go into the partials folder.
 2. Open up **google-authorship.hbs**.
 3. Paste the link of your google plus profile into href="" (see example)
-
-
